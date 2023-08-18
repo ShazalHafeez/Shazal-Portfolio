@@ -27,7 +27,7 @@
 
 .tag {
     padding:  4px 8px;
-    background-color: blue;
+    background-color: rgb(136, 136, 136);
     border-radius: 4px;
     margin-right: 6px;
     margin-bottom: 4px;
@@ -35,7 +35,7 @@
 
 .project-links a {
     text-decoration: none;
-    color: black;
+    color: rgb(206, 201, 196);
 }
 
 .project-links{
@@ -47,7 +47,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: blue;
+    background-color: rgb(51, 49, 102);
     width: max-content;
     padding: 4px 8px;
     border-radius: 4px;

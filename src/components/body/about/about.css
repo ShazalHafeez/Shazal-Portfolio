@@ -8,13 +8,14 @@
 }
 
 .picture {
-    height: 420px;
+    height: 400px;
+    filter: contrast(95%);
 }
 .about-info {
     font-size: 24px;
 }
 .info-name {
-    color: blue;
+    color: rgb(51, 49, 102);
     font-size: 32px;
 }
 
@@ -26,6 +27,7 @@
     }
     .picture {
         height: 280px;
+        position: inherit;
     }
     .about-info {
         font-size: 20px;

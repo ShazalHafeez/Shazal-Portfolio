@@ -9,7 +9,14 @@ function About() {
           Hello There ✋,I am,
           <br /> <span className="info-name">Shazal Hafeez</span>.
           <br /> I have experience working with{" "}
-          <p href="https://rad-wi.com/">RADWI</p>.
+          <a
+            className="info-name"
+            style={{ textDecoration: "none" }}
+            href="https://rad-wi.com/"
+          >
+            RADWI
+          </a>
+          .
         </div>
         <div className="about-photo">
           <img
