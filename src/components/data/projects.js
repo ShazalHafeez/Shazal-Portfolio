@@ -13,7 +13,7 @@ export const ProjectData = [
     demo: "https://github.com/ShazalHafeez/Expense-Tracker.git",
     github: "https://github.com/ShazalHafeez/Expense-Tracker.git",
     image:
-      "https://github.com/ThantZinPhyo-Slark/Application-Web-Design/raw/main/home.png",
+      "https://raw.githubusercontent.com/ShazalHafeez/Expense-Tracker/main/src/assets/expense-tracker.png",
   },
   {
     id: 2,
