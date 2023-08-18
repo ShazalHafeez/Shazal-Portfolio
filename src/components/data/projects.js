@@ -19,21 +19,22 @@ export const ProjectData = [
     id: 2,
     title: "Shazal Portfolio",
     about:
-      " If you go to work regularly, you will get a certificate from Google in more than 2 months. In the Github link, included the answers to the questions in the Google IT Support Course, as well as everything from the Financial Aid Letter to the final CV writing.",
+      " I have made my e-Portfolio using React. It is completely responsive. It includes my past Projects, skills and contacts.",
     tags: ["ReactJS", "HTML", "JavaScript", "CSS", "Web Development"],
     demo: "https://github.com/ShazalHafeez/Shazal-Portfolio.git",
     github: "https://github.com/ShazalHafeez/Shazal-Portfolio.git",
-    image: "../../assets/portfolio.png",
+    image:
+      "https://github.com/ShazalHafeez/Shazal-Portfolio/blob/main/src/assets/portfolio.png?raw=true",
   },
   {
     id: 3,
-    title: "Always Illest",
+    title: "Smart Door Bell",
     about:
-      " This is a ramdom project I am using Website Design HTML ,CSS, SCSS & JavaScript Responsive AI Esport Page , It is Not Official Website.",
-    tags: ["ReactJS", "HTML", "SCSS", "JavaScript", "AI Esport"],
-    demo: "https://github.com/ThantZinPhyo-Slark/always-illest",
-    github: "https://github.com/ThantZinPhyo-Slark/always-illest",
+      " It recognizes authorized user faces and opens door lock otherwise keeps it closed. It also notifies house owner when a person is standing infront of it. It is implemented using ESP-32.",
+    tags: ["C", "C++", "ESP-32", "Hardware Understanding", "Arduino"],
+    demo: "https://github.com/ShazalHafeez/CAO-Project.git",
+    github: "https://github.com/ShazalHafeez/CAO-Project.git",
     image:
-      "https://github.com/ThantZinPhyo-Slark/always-illest/raw/main/preview.png",
+      "https://circuitdigest.com/sites/default/files/projectimage_mic/Smart-Wi-Fi-Video-Doorbell-using-ESP32-and-Camera_0.jpg",
   },
 ];

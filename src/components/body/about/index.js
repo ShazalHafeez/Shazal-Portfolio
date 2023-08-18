@@ -8,6 +8,7 @@ function About() {
         <div className="about-info">
           Hello There ✋,I am,
           <br /> <span className="info-name">Shazal Hafeez</span>.
+          I am currently doing BSCS at NUST, Pakistan.
           <br /> I have experience working with{" "}
           <a
             className="info-name"
